@@ -1,15 +1,15 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGlsSzFMWENJTGRuWlhybzNyVTZDQndhaUVkUkhNeXhZTk1HT1d4ZGhabDEraHNvanp0MXFPeVJEcTc4bmJ0Y1U1VEU0SUg4b3lMVGNYbmhYanU0M1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ2MDU1CWZpbGU6UklQU1BBQ0VfMS4wLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yCk9ZR0Z6S2ZxQ3pCUnBEenpwY3hmQ3ZCRGp0ei91S0U3QmFleDNLYnRyRnA5b0E2OWtubk5zVmN4NGlYM2pFYlhRVVpieWptZzFIcDZZek8xTFEzVER3PT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGphYXVWZVpHNWxUam1ERGJrc3pHWURoRFV3T2hnbGQ3anp1d2g2S1NJa0RBVFJnN0VKcVZ6czYxWnNacjNXSHZxUXZIbjVzWHhtNE9KOG5zVlFXN1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ5MDgzCWZpbGU6UklQU1BBQ0VfMS4wLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yCnY3TFEzY25JZVB5dWxxRDNHS0RQVm5HSUt6TWd1a2tYOEJTT3pERWZNTHN0QXA2ZVczMEtWVDgzWFB4dGxVRUNjdnVwQkd6OXM4ZzdHejY4VFdUUENBPT0K",
                                              "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.2_x64-setup.exe"
                                          },
                       "windows-x86_64-msi":  {
-                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHJBaFJJaFRQK2xSSWFCRnYycXdSaVYrellEZW5nUlhDb0dZMWYxYkYzWDYvM21rQzFOSmNEdjdHY2FsQ1RNa0NEV0tPUUZOa2NiQmRjbDIwSm4wd2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ2MDU1CWZpbGU6UklQU1BBQ0VfMS4wLjJfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC4yCkxMeS9VbDJHdkJNNkdSMVN0U0VsK1JQNnNSSGV5QnRGY3lwMmxRSEp3UmEvamZzYm9yMlhQVmhtRERGMmY1akFDK3lIMXJnYUEzSGxrNVZPOUh2NEFBPT0K",
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGhnM2xGQUFrVThYaW91eWJjTTFDQ0FEcDRNVHdZem13WkJFU1VmWmlLamRMVHkvcE1IbDZNSGNUTTlKeFRwd1Nrdll1ckh0ekIzUHBnMjlZc2NSL0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ5MDgzCWZpbGU6UklQU1BBQ0VfMS4wLjJfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC4yClZTeWZpby9EeHpRS1dWUWUxb0xteUlGT0N3TEJyaWJQZXhpOC9mbmcrQklPNC9NNktDMnlYbEU2cWdBaGtTYjFIejlWeXdIOE5WZTZvcjVtNGszaURBPT0K",
                                                  "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.2_x64_en-US.msi"
                                              }
                   },
-    "pub_date":  "2026-10-31T11:38:41.748Z",
+    "pub_date":  "2026-10-31T13:24:41.324Z",
     "version":  "1.0.2",
-    "notes":  "RIPSPACE 1.0.2`n- Стартовое меню с проверкой обновлений`n- тихий режим сервера, проверка API в дебаг-окне"
+    "notes":  "RIPSPACE 1.0.2"
 }
