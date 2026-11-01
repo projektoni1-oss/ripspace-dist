@@ -1,15 +1,15 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHI1YUlpNGE3MW9VeUtXY0VHSDlSQnNjZjZjVkt6T2Z6NWswSnMrbkxqK2VEMkZSV0FObnNlSk96L0lLSGtsR3hKQUJJbHZIYm9UamxBcExYUGpST0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk2OTQ4CWZpbGU6UklQU1BBQ0VfMS4wLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC45Ckdqa3J0YzlUVzlXUkZjN3d0Zjd1czdRano1NHFjbXZFMjNpemFzZGVGaC9xWm4xSnJvYkF2WXF2TStBOUxpdjQ0OVhZeG05Y2V2TWVLcnV5SFJ0OUFBPT0K",
-                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHNjek5YK2c0cCtlc0JiQWdFMXRENzNzOWpkS2RGaHBBTmtBT3IrbXVMSUl3SURNSjNUTlRYNGJFQXFSOHowSFlzVHRvZzNJWlBvcmVFMmhtV3V5NXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk3ODE3CWZpbGU6UklQU1BBQ0VfMS4wLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMTAKQjVTdHppb3pDNkJXWDVJNFRyQ3MyYTZoR3RXdlNNV1pEdFBFK2RQRFNiL05wUDcwQk5PRXlMNFFiSTg2RVVDTlJCTmJ6eUI3NENaeVNZZ2NHaDI2QWc9PQo=",
+                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.10_x64-setup.exe"
                                          },
                       "windows-x86_64-msi":  {
-                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHVNeTNMWkZEQkc1L1JJeHhLQnNESnpzQ3drSWM4QlN5WGVuZCtXWktGSlNVaWRrNXVsTTZDaXZUNm9xZlhieWVWUDBoSGdiSUIycTJFTVZPSTRCckFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk2OTQ4CWZpbGU6UklQU1BBQ0VfMS4wLjlfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC45CmREV3FjWWYwMFVzajg2WG5ZQ3BXemZGbU9Nem1FNEFzYXk1clBGcll6OEo4THRlbFVkSVFYc3Jyam8zdlhhbWFOdnZWaUxKUUljNU5LWlpNV2tydkJnPT0K",
-                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.9_x64_en-US.msi"
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGllNVNpbmt2c2RzQkZuajRqUWpwNVZwYTBzZWJzSTlQa003ZXBic3J2NjJFWHFOWDZoTGUyQXE4VVg3Yi80b1ltUm5xYXI5UFB4Wm5PaFQzSzVENkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk3ODE3CWZpbGU6UklQU1BBQ0VfMS4wLjEwX3g2NF9lbi1VUy5tc2kJdmVyc2lvbjoxLjAuMTAKK3JlTGY1TDlLT3F1Nk1pN3AxWG9uYWl6Z2UwRDdzTzF2d1BNdkdJL0RUZWp0M3dMenE1bFRGazhqeTdCTkI0WEpQb25YMTFnUGl2cGxjbWhzTXVoQXc9PQo=",
+                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.10_x64_en-US.msi"
                                              }
                   },
-    "pub_date":  "2026-11-01T01:36:13.107Z",
-    "version":  "1.0.9",
-    "notes":  "RIPSPACE 1.0.9 — исправлено залипание старого интерфейса после обновления (service worker переведён на network-first, URL окна привязан к версии, чужой сервер на порту 4173 останавливается); закрытое FAB-меню больше не перехватывает клики."
+    "pub_date":  "2026-11-01T01:50:38.825Z",
+    "version":  "1.0.10",
+    "notes":  "RIPSPACE 1.0.10 — в настройках появился выбор навигации: FAB-меню или вкладки в шапке. В режиме FAB шапка сайта становится компактной (скрыты логотип, вкладки и шестерёнка), чтобы не дублировать заголовок окна; в режиме вкладок плавающее меню скрыто."
 }
