@@ -1,15 +1,15 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZG9DZ3NVMkk4aU15aGM1cW1ZdUNjRitSSUE0dzZQeXlxTTJhWWNpNmhVbE1CbEpwVXRPUDlVMC8rc0ZvUzRFZHYvUS83V1A3MDdEbnp1Rm1KZmF6UVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTAyMDY2CWZpbGU6UklQU1BBQ0VfMS4wLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMTEKQ29hdGQ2MWRnWndWRkZBcFdJQVFlSnpaN3hHN0xNSG9NNEZJZHNIRjgzTWFUZmtJaVF0OFdQMEltRjBKQ3Z5R2FXeXlVQ3RYcWppVGp6TWJNYWdKRGc9PQo=",
-                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHY0VEdLYVBhZG14SmN3UE1oaHVBckNrbzlka1dBRXVXTFpsQW44cm9tMDRiNk9JWEI2cXN4eTdCN3ppdU5TYjVQRVcyeXBOdVpuS2RMSlRQQlJKRmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTA0NDYzCWZpbGU6UklQU1BBQ0VfMS4wLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMTIKUHBhL2ZkQnpPdmJiV0NQZjVuUUxnSFg2cXlqZ3NRcm9KUzhxMkVsVGJSb09OUkh6SS9xbW1Zc3ZvSTVsTG5hQUExWXYwbHJYZzEvQk5IeUlORU5GQUE9PQo=",
+                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.12_x64-setup.exe"
                                          },
                       "windows-x86_64-msi":  {
-                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGg4UHlqREI1ckg3c2M2TkFINnl3cEQ5ME1pemllUmlPL3FUVTAzVE9KTWRZT045Mk1LT1NRWHBzYStFd1J6dXFvSTcwYTZUV0NUczZqMU9UNmVNN3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTAyMDY2CWZpbGU6UklQU1BBQ0VfMS4wLjExX3g2NF9lbi1VUy5tc2kJdmVyc2lvbjoxLjAuMTEKemwyTFNsT3JNbDlGTWxIaUZ0MktkY1FEWmNVNTVGTVN4YWdKSzhMUGNNUVZGQUtOR1lnTUZMbzVrU1NhYWwzekpDaFdla3NGcjFadG93QjZaOThnQ1E9PQo=",
-                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.11_x64_en-US.msi"
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGtjVGZaSFdpL1pLMEl1RUpTOFVuczBQZm1TZlJDTkM1cE5TdU1Vb2hzYTBpSmwyRDVJNXI1Ri8yQW5aVUcxZXF3UnZMZmNNNGFsdVQ5SGo2RDROMlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTA0NDYzCWZpbGU6UklQU1BBQ0VfMS4wLjEyX3g2NF9lbi1VUy5tc2kJdmVyc2lvbjoxLjAuMTIKam9sS1pkWTVEeEtaTFZOaHBGd0NxNGkxUWNRYkFzdUplclpWdUZ1RUJISFRpeVQ2WlpWbHZHOE5rMGhQc2VDMDhhY1ZxMjQxWllyc0U0TkRHVCtBQlE9PQo=",
+                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.12_x64_en-US.msi"
                                              }
                   },
-    "pub_date":  "2026-11-01T03:03:03.942Z",
-    "version":  "1.0.11",
-    "notes":  "RIPSPACE 1.0.11 — на главной новый логотип в готическом хром-стиле вместо прежнего, блок главной подогнан под него."
+    "pub_date":  "2026-11-01T03:43:48.224Z",
+    "version":  "1.0.12",
+    "notes":  "RIPSPACE 1.0.12 — новая иконка приложения и ярлыка: готическая арка с металлической «R», рубины и малиновое свечение. Обновлены фавикон и иконки внутри приложения."
 }
