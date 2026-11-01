@@ -1,15 +1,15 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGlMTUJSdWU3Sy9IV3lxbHRNeTd4Tk9FcTBxRjA5TUNJYmJlQUJiR2hGK3Y0MFV3eTRJbkxnM3ZRazNST0FqbVJKbFVGTE4rdytYekZaRDFxc2hIWGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk1MjQ4CWZpbGU6UklQU1BBQ0VfMS4wLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC43CnZ2eU9DSTlVcVk2OEcxV1hRenRtZXB2Z1dRTUpYOWQ4aXpjMXppU3VuRXJSSU92MlVyWkdqODFvOTZjR0FMUFBhb21INDVVWVpzYzB2SElhRktZaEN3PT0K",
-                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHJBdHpTSUsxTUVKRW5XYzY0a29hcnhBMGhxaG1mYnp4WlRwQzQzbjYzZUh2RTNlWGpMMjN5WSthMm1LeHZ4WkxJaisySUVjYzNRcjRnZ004YzU2bkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk1OTQ5CWZpbGU6UklQU1BBQ0VfMS4wLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC44CnltWGFPcEdGdlkxWE9xaEdCaTZmTnVHeUtxclJzelVqTFBaL3NpUFNWRnd3QTZuN0tXSUFHNGttaVB6Q2RhbU1rYW9yWFlLbWUrYkhRbC9nUU05SEN3PT0K",
+                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.8_x64-setup.exe"
                                          },
                       "windows-x86_64-msi":  {
-                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZG9HS0UzbkF4VW5OMEgwOE9MbGQzT2RIUDdza3lOSU16ZGNrZWo0L3ZGMksyVitrdFZ6d3dqLytrZndQRlVJRVhuWDV1WW5WcVBWeVRhWGIvZmJ0U2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk1MjQ4CWZpbGU6UklQU1BBQ0VfMS4wLjdfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC43ClFSWFBjRk5yUU9TKy9WUndKNEl2MUVhWFk1WjJKUno1dHNzZGNHdkxIMWQ1VjVLN3RnOXFVckUvZWVOQm5ZR0JXbG9NUERySDBnNDVMRzN4L0ZkQUF3PT0K",
-                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.7_x64_en-US.msi"
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZG1tc1NTMzVmZ1RwOGhMZFFaMVlKMkdjYWVYK3l6amRMOHB6N3lzYzlERmVZU012TSs3UlRiOWNWaGc0dmNDWkg0dmJKeE52R3hYUmZ0WjN5bVZCR1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk1OTQ5CWZpbGU6UklQU1BBQ0VfMS4wLjhfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC44CnQ5U0p5NFdveDZrRWlzaTI1aytjTGRaSWc2QUEzMGMrMWlKbGcvRnQrNENQL3M1ZU1vR1ZsVG9OMGptRGtUelBBeGhFZEJ5L21rSFpPRysrVUViM0JnPT0K",
+                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.8_x64_en-US.msi"
                                              }
                   },
-    "pub_date":  "2026-11-01T01:08:00.112Z",
-    "version":  "1.0.7",
-    "notes":  "RIPSPACE 1.0.7 — после обновления показывается окно «Что нового» с описанием изменений; в окне дебага добавлена кнопка «Перепроверить все системы» (сервер, источники, иконки, превью через прокси, поиск, канал обновлений); состояние приложения хранится в файле и переживает очистку кеша."
+    "pub_date":  "2026-11-01T01:19:43.337Z",
+    "version":  "1.0.8",
+    "notes":  "RIPSPACE 1.0.8 — в титлбар добавлена кнопка «ПАТЧИ» с полной историей всех версий; в истории у каждого выпуска список изменений, текущая версия выделена."
 }
