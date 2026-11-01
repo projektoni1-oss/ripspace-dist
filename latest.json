@@ -1,15 +1,15 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHZ0QUw0eHdKbDNMSWEyK29SSW1TZkdNMGh4UXZHNHc1ai9nY2JqbHpTbXNLU1YzSTR2L1B1RmxZYzNvdDNTNTFlcFpMbURPdmVwd2NxYmNLZWZXWWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU2MTYwCWZpbGU6UklQU1BBQ0VfMS4wLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC40Clcxb0JSTnBZZXJyWE9QcU96clpydE5RamoyTGVpY212bzJqTlJoVU5OVU1sTTQ4cC9WaWg5KzhobmhEV1BwL1hzM3J4TGhHb0hoY2FJbUVraVNTNUJBPT0K",
-                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHFKUmhMdzhPVzREdWNDNURpTi9ySmgvYXpDdVZpWUtZaVN2U3d2WkJiRzRIckVKMm9UVGx2a2h5L0pXR0hXM0tSdzdNMW05dWgwdk1MdEIxMmkrcXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU2ODI4CWZpbGU6UklQU1BBQ0VfMS4wLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC41CmV0Q3plVm41aEIrS0w5NE44L0ZEdk1yZ1prRk54Rm82NzZGMHR1Z1o1R08vVWlMVlNsTnl0M0NuM3FidllDeW1oTXNPQngyOHdBU3VHOEFOclZ5L0RRPT0K",
+                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.5_x64-setup.exe"
                                          },
                       "windows-x86_64-msi":  {
-                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGltUzZsd3VtbkQ3YkhMTjI3T2J2ZUVJaS94aEtCMzVLeFBDMzgzaFd6WStOVytTaXowbTNEL0ZWREwyeXlROFdoOVlJUjc2NmNQVE5EVlhNNTlZYWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU2MTYwCWZpbGU6UklQU1BBQ0VfMS4wLjRfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC40CnB1RWpDRzdpZU15YzV4K1BHemhBdWZVOWRCSDJURTAra2QwSGhRUFFFWXlBT2p5Q3NGZUZmK2hSUnBtL2RKdGI5bHlVb2R2eHUrL2w0SXJVbnpsaUJBPT0K",
-                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.4_x64_en-US.msi"
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHFDSk4venBlb3pncEhDZFVVODQwdnZkN05lQWlqVTRTVXQxSjRTUzlINmZtazRNQ0hIS3MyeUk2QTB5VW50djFUQU9mQzNWWVlBcVV4MkNCcW4waXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU2ODI4CWZpbGU6UklQU1BBQ0VfMS4wLjVfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC41ClVucUZXbzhKZUNTbU5udzFDdHBoZTdieVVhQnVJRUlzRXBvK2lSYjFJQUc5OHlLRUdVLzZscXdBU0FVSWNTVmE4Mmp2VWRjeDFudy9DWEg2VlBBUkNRPT0K",
+                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.5_x64_en-US.msi"
                                              }
                   },
-    "pub_date":  "2026-10-31T14:16:33.822Z",
-    "version":  "1.0.4",
-    "notes":  "RIPSPACE 1.0.4 — навигация перенесена в плавающее FAB-меню (гамбургер) в правом нижнем углу."
+    "pub_date":  "2026-11-01T00:04:29.698Z",
+    "version":  "1.0.5",
+    "notes":  "RIPSPACE 1.0.5 — исправлена установка обновлений (ключ rid и onEvent Channel в download_and_install)."
 }
