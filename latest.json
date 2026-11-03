@@ -1,15 +1,15 @@
 {
-    "version":  "1.0.18",
-    "notes":  "RIPSPACE 1.0.18 — исправлено падение при запуске: очередь событий дебага не была зарегистрирована в состоянии приложения, и первый записанный лог ронял процесс. Окно дебага создаётся скрытым на старте, открывается мгновенно и показывает журнал с момента запуска.",
-    "pub_date":  "2026-11-03T20:17:38.190Z",
+    "version":  "1.0.19",
+    "notes":  "RIPSPACE 1.0.19 — превью каталога грузятся быстрее: кеш запросов, предзагрузка первых карточек и расширенное окно ленивой загрузки. Вьювер заранее подгружает соседние файлы, слайдшоу использует общий пул предзагрузки. Пока превью грузится, в карточке показывается неоновый скелетон.",
+    "pub_date":  "2026-11-03T20:46:02.270Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGo3SlZ3b2FXc2hJb3MvUjV6RWl4ekd4M3hxRlh2TlpWZ3FuWVFSR3krVVdPL0FZakU0b1Rtbm9SZ0VZbVcrVksrL2ozbnk2NHhDcjJPbXBGamc3NkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM2OTc2CWZpbGU6UklQU1BBQ0VfMS4wLjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMTgKK3J4ZU9EbUFsL1pKUXFCM05PeXljUzRtWTZyajNZNWdaYmM5UUN2REwxelM2K3pIYTZTbGNyTkY0amJoYm8vem9aZ1k4U096bi9uazBLUnZOVmJuQ0E9PQo=",
-                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.18_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZG51N0lIaElWREZIZEI1Ujh3Z2REYmJwb3NHWUpQQmFLbEphMWI5M0pIa0hhc0hmZmVoV1V5aVUwZ3hsdXd2b2ozaHZkdW83eUwvRXFmQWUzeEJWdUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM4NjY4CWZpbGU6UklQU1BBQ0VfMS4wLjE5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMTkKenV1Qm9GVWc4VFBuUUtGSFNGSzBGWmo4ZWR5NHhoSTZYZlo3VmE3cjFWRlFNNFJieXcraERNeGFEMXBFUE5tSFlKdWo0cGM0dDFBSEUzSkF6andzQkE9PQo=",
+                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.19_x64-setup.exe"
                                          },
                       "windows-x86_64-msi":  {
-                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHJOeldwT1BEU0t0MXo2Tk41dEdXZ1BYZjN0b0kwNUhta29nRHZIWTFPODlaV0N1dkhuTWttalprcTRxdlJvdllSU2E4WkJQNWJMWWI1U1MySVpqa0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM2OTc2CWZpbGU6UklQU1BBQ0VfMS4wLjE4X3g2NF9lbi1VUy5tc2kJdmVyc2lvbjoxLjAuMTgKYUZ5Wm5qYXc3SFFwQ0VVbkRTTytEK1g5OW1rejZTSmhhdUdHWHBsWUMrUlp5bmdIQzd6Y2E1dHdWaFlQdlFETU9XOVNlSkdHZmo0N0Y1N0IyZEhTRGc9PQo=",
-                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.18_x64_en-US.msi"
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGtGUnJjTTlJSnY5TlZXUVdVeDlaRVFXOXp0VmNzUVlQMm9iY0tjY0EyUzZ6WE43bGgrRWxkbGdmQmlGUHRTdkpISmlQWUFRTGh5dmdHaU9IbFZOMmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM4NjY5CWZpbGU6UklQU1BBQ0VfMS4wLjE5X3g2NF9lbi1VUy5tc2kJdmVyc2lvbjoxLjAuMTkKT0RTb0pjZzNveFQyZkRhTmFmcHhwQm0zTk9VU1RUUDR5QTZ4LzFvZkdvV05VazVjMVFxUlBMNlhLWFlaVkJPUU9NQmpqR1VpZ0RETXh5NEV6K05pQ1E9PQo=",
+                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.19_x64_en-US.msi"
                                              }
                   }
 }
