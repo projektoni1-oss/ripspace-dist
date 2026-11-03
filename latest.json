@@ -1,15 +1,15 @@
 {
-    "version":  "1.0.21",
-    "notes":  "RIPSPACE 1.0.21 — панель исключения тегов (скрывай нежелательное из выдачи, список запоминается), кнопка «Наверх» на главной и в каталоге, история патчей подтягивает свежие записи из latest.json, главная переработана: живая панель «Эфир» со статусами источников и ступенчатая анимация появления блоков.",
-    "pub_date":  "2026-11-03T21:35:47.311Z",
+    "version":  "1.0.22",
+    "notes":  "RIPSPACE 1.0.22 — изображения во вьювере перебирают каскад источников: оригинал, сэмпл, превью, напрямую и через прокси. Фраза «Изображение недоступно» убрана: при полном сбое показываются кнопка «Повторить» и ссылка на источник.",
+    "pub_date":  "2026-11-03T21:50:45.321Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGtqSUpucVhrU1QvbXJiQ0xsckt4SVBMYm1ld2xJTkdkbXlPaE5oYjR3TFcrQ0ZNZjBnRWJSRTJtekdXY0g3eFZxNXM1RTZHeUxMUS9XWHJXdm1uQWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQxNjU1CWZpbGU6UklQU1BBQ0VfMS4wLjIxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMjEKWFpHZFNpVHRyc2dDZ1hsRzJZZmRHNUw3STV3azJ0SGhLZC9kSXRZc2syMG5vS2dTZXRVd2VmOFI2dXVzdVRJbFZsK0FZVDlTODVLd0h3ZjRVWXdtQkE9PQo=",
-                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.21_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZG5FYUlkWnF3SVdkUVkxK1l1RmV0Z014MC94eUxqSjVKV1Z3T2hkUllhM012Y044QkdDV2h2OFY0d2pkSUFid0FGNGJMNldFRDdrenBPa25YS1BneVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQyNTU2CWZpbGU6UklQU1BBQ0VfMS4wLjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMjIKVGdFRE9aRWUyZittaWZXSDhQNVN0UThNUVRPTjdJU005VjY4QWhXWEREaTlCcm5uaDhFTm1NQUhYMjhEZGtacUwwbkFWK3pQSGg0MDViNnpWSjNEQXc9PQo=",
+                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.22_x64-setup.exe"
                                          },
                       "windows-x86_64-msi":  {
-                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGtTNzdGbEF5VlhxYitZR2djZFNDM1BDUHBBcHVkKyttNmROYjNlRmxGRUtiT1Qzb1ZCYmIwdWpNMzhtaE8zZFdsL01IUHhVcE9mdWJDMTR5Rzl4TndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQxNjU1CWZpbGU6UklQU1BBQ0VfMS4wLjIxX3g2NF9lbi1VUy5tc2kJdmVyc2lvbjoxLjAuMjEKT2ovN1lhb1FlUTZlZW1CSGxKU2VENnlIUjM4QytuVWJXc1VsOGI3RW9oeDFLNUtUL1hqeEwxaFRnRjR1ZDM4TEFnUkxNRlBXVXV5azlBdnVDbE1CQkE9PQo=",
-                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.21_x64_en-US.msi"
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHFoUkNHdVJUUGg5WWdSZjBuZTV0NUM0US9vVDdtNDJDTml6VWRiUGdrSEhmNmE3cXJTa3I3a293N3NFNnBjSmhQOGtJVjJUcmgxUkhWWU1yK2ltcWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQyNTU2CWZpbGU6UklQU1BBQ0VfMS4wLjIyX3g2NF9lbi1VUy5tc2kJdmVyc2lvbjoxLjAuMjIKRDhtSVBZRzBlOTZJY25FL2ZZTjVjUnNUbUR0b1RvMFVpaEFJMmxsVUZLZWtyU2xlTzdIbnR0VytsbHVBOUpxZmo3dDVVQ2dlUU10dS9kUWpIUk1aQmc9PQo=",
+                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.22_x64_en-US.msi"
                                              }
                   }
 }
