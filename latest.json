@@ -1,15 +1,15 @@
 {
-    "version":  "1.0.15",
-    "notes":  "RIPSPACE 1.0.15 — патчи проверяются автоматически (при запуске, раз в 30 минут и при возврате к окну). О новой версии сообщает уведомление с кнопками «Обновить» и «Позже» и полосой прогресса загрузки; чип «ПАТЧИ» подсвечивается, отложенная версия запоминается. В окне обновлений новый анимированный логотип: готическая арка с хромовой «R», неоновым контуром и рубинами.",
-    "pub_date":  "2026-11-03T19:32:26.464Z",
+    "version":  "1.0.16",
+    "notes":  "RIPSPACE 1.0.16 — у каждой версии отдельный профиль WebView2, поэтому после обновления приложение стартует с чистым кешем. Сброс кеша в настройках теперь срабатывает при следующем запуске и больше не зависит от того, занята ли папка процессами WebView2. Старые профили подчищаются автоматически, исправлен путь профиля и создание окна дебага.",
+    "pub_date":  "2026-11-03T19:50:34.969Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZG56c1B1NjRUN3MwUGE0UWE2azA0WjdPYy9Oa1YzRzdwbDAyMzBWZEh4NTJQcXpFek5ONXl1OStSdlNXdVhsUXdZV3Z4R2JwM1BwTURlQmNCOVFWMGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM0MjU2CWZpbGU6UklQU1BBQ0VfMS4wLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMTUKWGtBak03Q0xlU00vT2xUZUFRV2x3Y2VPQmxGOHYrWDBramhVYmgwQndZTFN2bityekxibHgxSjBZOUY4cVBHOWo5SHFkTU9nMjNUdmZSWWx6M29ZQWc9PQo=",
-                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.15_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZG1FejhJT0FHcC9OYnNzMFAwd0lvU0pGYkREWHFzUnNDRXQvMGxKZDh5S1J1MCtKZmZzQUl4YzFvUXRxK2FUSTdmODJQU2tiT29UZlRUUW04ZlRMQmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM1MTAzCWZpbGU6UklQU1BBQ0VfMS4wLjE2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMTYKRXhZeks0b1NURjg5SkJsbFRaZ1lhUURVVUNpVHF0VW54UVJqd3NLckpldXVTb1V3dHJiM25NM3lEakNKckFybjg5V0hRVFJKZzdtajBqWEpENkpCRHc9PQo=",
+                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.16_x64-setup.exe"
                                          },
                       "windows-x86_64-msi":  {
-                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHN2dE1wSnRYQm5VQ1pkUFBrdHk5eXFpbG10eTl5b0JyZ3c1UWQ4dGc0NnduVDM2bTVBdFZibDRxeExYVHQ2WXpSZlg4Z01QTlB5SStNL20xZ1Z3NWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM0MjU2CWZpbGU6UklQU1BBQ0VfMS4wLjE1X3g2NF9lbi1VUy5tc2kJdmVyc2lvbjoxLjAuMTUKalBDMlJZRWZQcTFUQi8zQUNIeHRkNXN3eU1RZ0FEaWJabytadjYyYVUxSVphUjEzSmdIWjU5SGtidmJmdHFvYkJXNUhEMEJCRFlOdUNVRkYzS0xvQ0E9PQo=",
-                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.15_x64_en-US.msi"
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHB1VEhmbGZSZXZGVUxiUUdxN0ZmMmJ1K3pVcEpyb3MvSFJsYkVQRGp5VU54b2JnVVdzQnFPcS9NbUszdk9RRUVZcEI3RUVobHlWNGVmaFhBT0lwRmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM1MTAzCWZpbGU6UklQU1BBQ0VfMS4wLjE2X3g2NF9lbi1VUy5tc2kJdmVyc2lvbjoxLjAuMTYKZVdtcWZGUVJNVVhucUpJUEJXNWRWR3kxY2ZQbEtTMXFLRGdhK2pSSDlYR1VCZVJGcUZjVlhjVXBSRmFpMmdFSjI5VkpmdGtGYTZnMnVyZkk1WWVEQVE9PQo=",
+                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.0.16_x64_en-US.msi"
                                              }
                   }
 }
