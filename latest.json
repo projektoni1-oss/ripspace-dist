@@ -1,15 +1,15 @@
 {
-    "version":  "1.1.0",
-    "notes":  "RIPSPACE 1.1.0 — открытие контента ускорено: hls.js и gsap подгружаются по требованию, стартовый пакет легче, скрипты не блокируют отрисовку. Изображения перебирают каскад источников (оригинал/сэмпл/превью, напрямую и через прокси). Починены 403: ссылки на оригиналы danbooru и Pixiv (i.pximg.net) идут через прокси с правильным referer, Rule34 при недоступности основного API переключается на paheal. Кеши сервера увеличены.",
-    "pub_date":  "2026-11-04T06:50:43.336Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGlHY2JxcGhwaytnbDVwdWZFM1pCc2hwOHBzUjJRZFF1ekgzbFMwb0VVQWtyVXpXSWVMNU1IWnZDcmtFcTYrMzRDaTVCV3VsMXVoWWxHOU82dkpUNWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzc0OTU3CWZpbGU6UklQU1BBQ0VfMS4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4wCnFrVHVFSk1VZnUrZE5KclhvVTFJZFhRbFhyY1N1d0ZkMDlsRVBVaHdhMFNjZWRaUDdaclBmRHpJMitwZzhOYi9PZXF0NzlBOFJ6blRab25ValNTaUN3PT0K",
-                                             "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.1.0_x64-setup.exe"
-                                         },
-                      "windows-x86_64-msi":  {
-                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGtpeE1vU2VtWGNiTHNodHBGWHRZRnYzSVEyOEJXdk1jOTZhM3JJMkJ6TWdZMWtGdlBJSWw0SVo3MHQvVmZQdEpuMVJWTklaNG5USlRXWHREbm9EdFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzc0OTU3CWZpbGU6UklQU1BBQ0VfMS4xLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMS4wCm80TEJwOURyWGxWVHRYQjNqRjNSaVFUaXNiaEVDamgvTG9UTUVrMFpQMlhqVXFpV2xLUHNmbFZlaWsyT010dUd2VFhpa210N2lrUm9UQ2tLS2VaT0N3PT0K",
-                                                 "url":  "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.1.0_x64_en-US.msi"
-                                             }
-                  }
+    "version": "1.2.0",
+    "notes": "RIPSPACE 1.2.0 - готический редизайн: вместо киберпанк-неона тёмная готика (вино и латунь, Cinzel вместо Orbitron), плоские поверхности без свечений, 1px латунные линии выделения, восстановлена кодировка панели эфира, исправлено перекрытие виджета эфира на мобильных, шрифты форм унифицированы.",
+    "pub_date": "2026-11-04T21:29:16.000Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHRTZDVVUWliVzlqdllWNXFQM1Jma0tBL3hpL1JJM1AvNjNGaDc1bG1CRFFJNDZDVUtyaHFyR3crS3FsVXNITzFtQXBOQ0lBUXg2QnlXQ1VYeWxKL0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI3NjAwCWZpbGU6UklQU1BBQ0VfMS4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMi4wCkppeUgxSXFXRythUHBnWE01aEx3QVlPdzlZaVZnNkxhYi9lbXU5TTFFNHA3aitWMUZaSUJLZkFyRXpyRDBIL2tTSU53QjhmZEhGU1VNVlFYdW0rSUFRPT0K",
+            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.2.0_x64-setup.exe"
+        },
+        "windows-x86_64-msi": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZG5GSzJBbnRnMHorRktwSnM3b2NBR0FQZUYxZG95WVBnU1paSHJwSFZTQk1VR1NJSXJKNkdmMWxOVzV5OHhhREpFR094emNKTW9MTGtaUFBUY1J6WkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI3NjAwCWZpbGU6UklQU1BBQ0VfMS4yLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMi4wCnFzcU1aZVgvaisrSDhHZC9SOWZzd2RZVTVpQ1U0VHorWnBkV3lJc3lLNVQ1cnVtbWpWVUtzV2hoMUlLZWk4RUxZR29xTGlsTC8rVW94ZEF3Wk5sMEF3PT0K",
+            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.2.0_x64_en-US.msi"
+        }
+    }
 }
