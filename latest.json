@@ -1,15 +1,15 @@
 {
-    "version": "1.3.0",
-    "notes": "RIPSPACE 1.3.0 - danbooru fallback: при недоступности danbooru.donmai.us (Cloudflare 503/403) поиск уходит на xbooru.com; исправлен порядок чтения прокси из .env (раньше HTTP(S)_PROXY из файла не подхватывался); диагностика ошибок upstream в warnings.",
-    "pub_date": "2026-11-05T03:39:41.975Z",
+    "version": "1.4.0",
+    "notes": "RIPSPACE 1.4.0 - дизайн пошлее: откровенный копирайт в лоб (жди «Жажду твоего», «Влажно искать», «Раздрочить всё»), сочные палитры вина и плоти, влажные блики и чувственные скругления в поиске и кнопках.",
+    "pub_date": "2026-11-05T03:54:57.856Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGp3UFpnU3BpRHBtZ2ErakZoMXpiVEpqbkRhTXR3S3NNZUdjZG90T25uWHNqb3JRckdsWE5YYkFMWnR0b1d5VURTYWs3bnp6SzBIeHFTZ2U5NlBKVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ5OTA2CWZpbGU6UklQU1BBQ0VfMS4zLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMy4wCjVqOERMaEsvY2RDOGhRMHZ3eDRDYkZEMXhKKytmRm8zOURuelBvNERtejBiZkN4UzM3cktUUFZSK0p3a3N4cjRyUUJIRE1PaFVQOE9KV0RnVkRuMENRPT0K",
-            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.3.0_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGkxVWJhVVVycmM1UUlZUzVZRHQ3THk0NlJ3Y2RvdTBjbE9mcW52UUdWRWFhTEhiNlRDdUF2Zk9ETHVhb2dSN0RDTktJRTZVMk1LTTNnZWtLczRHblFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODUwODQ1CWZpbGU6UklQU1BBQ0VfMS40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNC4wCmhCMm9saHJqcVBZSkVtUGhPZzJsUXZmWHR5ZUE0aGxMYTNkRWQ4RnNjU0kxemZUVGQ5bTBZY1B1azFrMm9rYkt5N2ZBS2JCYkhiWkdteTBFK3NZYkF3PT0K",
+            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.4.0_x64-setup.exe"
         },
         "windows-x86_64-msi": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZG5sTjI0VWcxUWx1dzNMUjI1OS9ReGFUTnpRRk9PbkxLVWhrOTNtNmo1RzZJbmRrcGF0aGlPS2tiTnhCVWxIbnhrYUdzTTdYR0hXdTFZNFIvbjEyd1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ5OTA2CWZpbGU6UklQU1BBQ0VfMS4zLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMy4wCnBESjJadDNsRHI5aUhtZll3VFFHM1hYWmduaU1qOUFDOWFRMVRZdzVYY0RSOWNuQUdrWDh0cVZLdUwwb3AxaHE2dzRRWDNUOEtXQnZGYzFkUFI1a0RRPT0K",
-            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.3.0_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGgwS2NtM1U4MDdEckRlUHNOZzg0MVUwQTRuVnFhQnhjS3JlQ1JQUjhTVzdJZ2U2QVJBNWRNeWxoeW4xMlRaSFVFUC9WRm5rbTBjVG9VQVJYaXNMOGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODUwODQ1CWZpbGU6UklQU1BBQ0VfMS40LjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuNC4wCnd1anBsR3pBNitMdG40TmZNZlZZcVFyR2Y1ZVlaQnhjZzE2YTRLMlg0bE9uVGFacTVVME5vV0pkMThlRGhGbVNIRGJSQ3N6Wmt0N2tCK2diTElxc0JnPT0K",
+            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.4.0_x64_en-US.msi"
         }
     }
 }
