@@ -1,15 +1,15 @@
 {
-    "version": "1.5.0",
-    "notes": "RIPSPACE 1.5.0 — полировка и фикс: починено переключение набора иконок до открытия каталога (больше не падает рендер), интерфейс стал сочнее — скругления, свечения и лёгкий blur в поиске, кнопках, фильтрах, карточках и вьювере.",
-    "pub_date": "2026-11-06T13:47:22.903Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHRjclN6ak1oaE82R2JKQ2NTU0FnZXdEMGI4MVcwbWFXS0h0MUVBL3Ixd1owb0RnbVl1aER2am1tTEhYUTVncVMzMFdocm01aUYxMkpOUThWK2RjSncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTcyNzI4CWZpbGU6UklQU1BBQ0VfMS41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNS4wCnhmeWxQNDFrQ2pKVldTL25wVFU5TFlqQk9DRGN6dVU1UWFQUE5jMEJFU3U4Nzk0WCt3UmZzbndMUFJHM3V2L21LN3pyWjNqTVZCQmJKM3A4dmo4QUNRPT0K",
-            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.5.0_x64-setup.exe"
-        },
-        "windows-x86_64-msi": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGdVREJJUVNFQk1qK3JZeTNKc2VPeGJZUmdVYnlGOHFZNEgvZWZpTktKbTVsMW1LZ25JMHlzT2pqVVpaeXdXME1oaGR5RVM5c2Z5Ukhmc0QyMk9EQ2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTcyNzI4CWZpbGU6UklQU1BBQ0VfMS41LjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuNS4wCldhY2VsNGNDTzIvQzdwOVhSUlRhZGgrZzRRR2h4VUxrdW44SHAyZWRYREVtRUcraDlhRGxMdFJ0aWU3anhmQmZBcXphUFUwdnVtaHVvQU9OUmVDbEFRPT0K",
-            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.5.0_x64_en-US.msi"
-        }
+  "version": "1.5.1",
+  "notes": "Главная стала компактнее; тексты и подтверждение возраста упрощены; исправлены высота экрана при плавающей навигации и цвет панели браузера.",
+  "pub_date": "2026-11-09T13:49:45.501Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHZ6YzEwc3FTNTlnN2VZNEYvRDcvQ1RNNFJyMUFIK2FNemxlWUtDMVAyQnZ3c1hwMTMwQzBoSzRld29LWkJrSzZKUXdPUkowTUl1cGlEaXhyUFEveEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjMyMTc5CWZpbGU6UklQU1BBQ0VfMS41LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNS4xCkpXLzh5b3E4ektEYVV6d3VET08wbFFnQnlNTCt4a0J1cDBia0sxYUdQKzdyc2hidWxwejVQbGNia3VxdWgwWEM2VlVrenRFRk0xR0M4QzBFRHJHUERRPT0K",
+      "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.5.1_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGwwZ0FQT2JnaCtCMStPNDRaeEhvNzVzcDMxUXRoUTFyeEgyM3B6WDV4dlF0U3BSYlYxSWM1SXdSZnNZbEoyQk1KK0R2SlorVGc0TUlzK24raFRCWWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjMyMTc5CWZpbGU6UklQU1BBQ0VfMS41LjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuNS4xCjBpWGFzWDRmOFBVbkhwODIvYUIyN1l4cDBOSGlSbTRQQW5nQS95NzhnYjQyK3hIdTh4NjhSdlFPN0piRnVnczIxWUkyYzVLS0ZCTEVhVWVFRkoyMkFBPT0K",
+      "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.5.1_x64_en-US.msi"
     }
+  }
 }
