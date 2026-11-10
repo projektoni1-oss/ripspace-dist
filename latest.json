@@ -1,15 +1,15 @@
 {
-    "version": "1.5.2",
-    "notes": "RIPSPACE 1.5.2 — сборка-дубль 1.5.1: синхронизация с оболочкой (тема, набор иконок, навигация сохраняются в приложение и восстанавливаются при старте), компактный home-хедер. Изменений кода относительно 1.5.1 нет.",
-    "pub_date": "2026-11-09T15:34:06.539Z",
+    "version": "1.5.3",
+    "notes": "RIPSPACE 1.5.3 — исправлены превью: хост img.xbooru.com добавлен в список разрешённых для прокси, превью danbooru-фолбэка снова загружаются в каталоге и вьювере.",
+    "pub_date": "2026-11-10T23:03:07.685Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHVYcUUvOEUybjJVK0xSdHd3bHBGd0NrUGYwSW02YWtFZ2x6NjA2SmhjZmxpOFY3blBrZnYrWWFGZmt1Mldqazc0UGNmNFRUNWRDWGI3SzhteHRDTUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM3NjAwCWZpbGU6UklQU1BBQ0VfMS41LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNS4yCjhyVFIvSWEvZzNJZXR2aHZLYUtLclVpQjZlQ1RLNzhZdDl6cXlqRmVuNEJUTlpuaVlIWmRibHZSSTFFUnY2aTF3dFpDWlRuZ2JJWlJ6OFNOeVN1OEFBPT0K",
-            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.5.2_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGxoQkVuTDREUFFyK2lGTzNRTm9Bc3lpREtUcDZWTE1xZ2YrV0dVT0lkTXZYUUxFQ1krQUE5bndiWm5XNnV1amhvVVpISFR2WVA3TmZzZndueTVTaXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzUxNzI4CWZpbGU6UklQU1BBQ0VfMS41LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNS4zCko5R2RLcW5MOFRRRThqdVJubDJQUU9Cb0M2dEtSYUdhN2M3a2hxcGZTUExuS2pwMFBCMjVUY05uay9UNDd5SnZxd25YZFJVTHQxSnhLTVAzZlFQWURRPT0K",
+            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.5.3_x64-setup.exe"
         },
         "windows-x86_64-msi": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZGozRjBWS1ZLbmppTnpoMitwaDZuVHZyZEhHRXZ5eGJCbHRvY3lvYlBpQ0o3LzRrNkx4V3kwUXBBTkg4L2RJTStCbE5hUlFxblZvVHV1YXltN0NrSVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM3NjAwCWZpbGU6UklQU1BBQ0VfMS41LjJfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuNS4yCll5TGRzdVJDcUQ0ckhVdWtEa2EzeDRqZFJrM0xETUxtTDRWbGlzNktoRTZjUEtqOFZkMmdGbUt6ek13TFl1Qnprck5zc0R5SHBNSjMrc25nY2JmUkRRPT0K",
-            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.5.2_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGpmRkpWUlQ0ZHBlMDdRbEpMcHJOWlY4SEkrKy9tOUYzWEcydExTM3dIR01KandyS1NQY1dtY1BnYi9EQVFvYVNNSnFDZXJCTWpoRllNU2V5Vlg2djVpRTNSS0ZzcWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzUxNzI4CWZpbGU6UklQU1BBQ0VfMS41LjNfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuNS4zCnJpdHRZdCtYb0tuV09sYThKaFpGdUw1WG9CYTdDTDcxK0NvR0llVXQrNDltcHFXanBkUnl1Q1dGVC9HTlQ3ZzZydTYwK3BXblFWUTMwR2dQMHVTMkJnPT0K",
+            "url": "https://projektoni1-oss.github.io/ripspace-dist/RIPSPACE_1.5.3_x64_en-US.msi"
         }
     }
 }
